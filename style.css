@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7UG2tuXarqvGRTq26eYUBKFeV7-LIBnjE4A&s");
   text-align: center;
   margin: auto;
    font-family: "Poetsen One", serif;
@@ -9,13 +9,13 @@ body {
 
 h1{
   font-size: 30px;
-  color: white;
+  color: hotpink;
 }
 
 #myCanvas {
   background-size: 600px 400px;
   border-radius: 30px;
-  border: 5px solid white;
+  border: 5px solid hotpink;
 }
 
 
